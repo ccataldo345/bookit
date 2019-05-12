@@ -18,3 +18,9 @@
   - press the green button in the top row
 
 otherwise `gradle bootRun`
+
+#### CC:
+
+sourceCompatibility = 1.8
+
+http://localhost:8080/todos/1
